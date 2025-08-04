@@ -51,8 +51,6 @@
 ## Пример игрового экрана
 <img width="678" height="252" alt="Снимок экрана 2025-08-04 в 19 07 03" src="https://github.com/user-attachments/assets/cff61ab2-ad35-4773-8f91-9a2b04544ab0" />
 
-<img width="693" height="249" alt="Снимок экрана 2025-08-04 в 19 06 28" src="https://github.com/user-attachments/assets/d4e6a4bd-368d-4272-9796-da124761e4b6" />
-
 
 ---
 
